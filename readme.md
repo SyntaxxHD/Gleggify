@@ -26,5 +26,5 @@ Pimpe dein YouTube mit Gleggify! Bist du von dem Fotztent auf YouTube genervt? H
 
 
 [Download Chrome]: https://chromewebstore.google.com/detail/gleggify/ellibeooakedfigjccjjmcoojnlhlali
-[Download Edge]: http://microsoftedge.microsoft.com/addons/detail/gleggify
+[Download Edge]: https://microsoftedge.microsoft.com/addons/detail/gleggify/pdahfngkpokcgmfpfkknmfhdneehkojg
 [Download Opera]: https://addons.opera.com/de/extensions/details/gleggify/
